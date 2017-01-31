@@ -23,7 +23,9 @@ commands that developers actually use on a regular basis.
 
 Let's get started!
 
-*Small note: you may notice that some of these images refer to Workshop 1. It is really Workshop 2. We renamed it at the last minute and haven't had a chance to fix everyone once we noticed the mistake.*
+*Small note: you may notice that some of these images refer to
+Workshop 1. It is really Workshop 2. We renamed it at the last minute
+and haven't had a chance to fix everyone once we noticed the mistake.*
 
 # Grading Rubric
 
@@ -57,6 +59,8 @@ command output.
 
 # Step 01: Acquire the workshop repository
 
+[ws02]: https://github.com/umass-cs-326/Workshop2
+
 Every project you work on in this course will be contained within a single Git
 *repository*. Each repository has its own set of files and folders, and tracks
 changes to those files and folders. Typically, companies and organizations use
@@ -67,7 +71,10 @@ for us, and GitHub Classroom to manage all assignment repositories. For each
 workshop, we will provide you with an existing Git repository that you will
 use for that workshop.
 
-To get started you need to *fork* the GitHub repository for Workshop 2. To do that click on the "Fork" button, it is on the upper right-hand part of the github page next to "Unwatch" and "Star":
+To get started you need to *fork*
+the [GitHub repository for Workshop 2][ws02].  To do that click on the
+"Fork" button, it is on the upper right-hand part of the github page
+next to "Unwatch" and "Star":
 
 <img src="../images/fork-workshop-02.png" width="50%" />
 
