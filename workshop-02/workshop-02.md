@@ -76,7 +76,7 @@ the [GitHub repository for Workshop 2][ws02].  To do that click on the
 "Fork" button, it is on the upper right-hand part of the github page
 next to "Unwatch" and "Star":
 
-<img src="../images/fork-workshop-02.png" width="50%" />
+<img src="../images/fork-workshop-02.png" width="70%" />
 
 After you click on the "Fork" button you will be asked "Where should we fork this repository":
 
